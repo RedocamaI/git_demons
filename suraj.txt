@@ -2,3 +2,4 @@ Hello everyone, I am here to talk about git/GitHub which will help you to partic
 Thank you.
 Suraj Kumar Barnwal
 Branch: Computer Science and Engineering
+Batch: 2020-2024
